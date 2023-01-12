@@ -1,5 +1,7 @@
 # UCLA CS Teaching Talk
 
+[Auxiliary slides](https://docs.google.com/presentation/d/1M1x5SiTdP9mSjzUV3HyGY5RpWDK1w1PzytlboANTyI8/edit?usp=sharing)
+
 ## Preamble
 
 This is a tentative script for Matthew Wang's (~ 1 hr) teaching talk for UCLA CS.
