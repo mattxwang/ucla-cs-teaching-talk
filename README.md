@@ -276,7 +276,7 @@ Given what we know about how JavaScript was used (and what its purpose is), why 
 
 ### Spongebob
 
-[meme]
+![Spongebob meme - code is annotated below](https://raw.githubusercontent.com/mattxwang/ucla-cs-teaching-talk/main/spongebob.png)
 
 ```js
 > 0 == "0"
@@ -307,7 +307,7 @@ true
 
 ### Made in a Weekend
 
-[screenshot]
+![headline: JavaScript: Designing a Language in 10 Days](https://raw.githubusercontent.com/mattxwang/ucla-cs-teaching-talk/main/js-10-days.png)
 
 ## Absurdity and Practicality
 
